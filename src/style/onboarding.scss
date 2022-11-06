@@ -1,0 +1,52 @@
+.screen-container {
+  width: 100%;
+  max-width: 60%;
+  margin: 1em auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  padding: 2em 1em;
+
+  @media (max-width: 767px) {
+    max-width: 95%;
+  }
+}
+
+.image {
+  max-width: 100%;
+}
+
+.title {
+  font-size: clamp(25px, 1vw, 40px);
+  font-weight: 600;
+  text-transform: uppercase;
+  color: red;
+  font-family: "Roboto", sans-serif;
+}
+
+.description {
+  font-size: clamp(13px, 1vw, 16px);
+  text-align: center;
+  line-height: 1.5;
+  color: rgb(2, 0, 18);
+  opacity: 0.9;
+  letter-spacing: 0.1px;
+}
+
+.button {
+  color: white;
+  display: inline-block;
+  border: 0 solid #dae1e7;
+  box-shadow: 0 3px 8px 0 rgb(0 0 0 / 6%);
+  background: red;
+  padding: 1.2rem 2rem;
+  height: 2rem;
+  display: flex;
+  border-radius: 1.5rem;
+  align-items: center;
+  cursor: pointer;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.1px;
+}
