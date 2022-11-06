@@ -1,17 +1,22 @@
-## Running React on Repl.it
+## React js Project
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+- Github Profile Stat - github API
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## Demo links
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+Link to demo project [https://nwabuisi-favour-altschool-africa-second-semester-exam-project.vercel.app/](https://nwabuisi-favour-altschool-africa-second-semester-exam-project.vercel.app/).
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+## Demo view
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
 
-### Typescript
+## Built With
 
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+- React js
+- CSS
+- Mobile first workflow
+
+## Developer Information
+
+- Website [`favex`](https://favex.netlify.app/).
+- Twitter [`@FavourP69766003`](https://twitter.com/FavourP69766003).
+- Linkedin [`Nwabuisi Favour Uchenna`](https://www.linkedin.com/in/favour-nwabuisi-94a31a245/).
